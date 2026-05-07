@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a mobile development enthusiast currently studying at Universitas Brawijaya.
+I'm a mobile development enthusiast currently studying at Brawijaya University.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/al.hery_s) 
