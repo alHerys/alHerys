@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Mobile+Developer;Android+%7C+Kotlin+%7C+Flutter;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
----
-
 ### 🌐 Connect With Me:
 <p align="left">
 <a href="https://instagram.com/al.hery_s" target="_blank">
@@ -19,8 +17,6 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
-
----
 
 ### 💻 Tech Stack:
 
@@ -39,7 +35,6 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/android_studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
 </p>
----
 
 ### 📊 GitHub Stats:
 
